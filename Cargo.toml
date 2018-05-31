@@ -4,3 +4,8 @@ version = "0.1.0"
 authors = ["meidhy <dymayday@gmail.com>"]
 
 [dependencies]
+piston = "*"
+piston2d-graphics = "*"
+pistoncore-glutin_window = "*"
+piston2d-opengl_graphics = "*"
+fps_counter = "*"
